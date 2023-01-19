@@ -1,12 +1,12 @@
 # Python Study
 
-cities = ['New York', 'Kyiv', 'Kharkiv', 'Toronto', 'Donetsk']
+cities = ['New York', 'Kyiv', 'Kharkiv', 'Toronto', 'Donetsk'] #otschet idet s 0 - New York, 1 - Kyiv i t.d.
 
 print(cities)
-print(len(cities))
+print(len(cities)) #kolichestvo peremennih v massive
 
-print(cities[0]) #raspechatka s nachala massiva
-print(cities[-1]) #raspechatka s konda massiva i tak dalee -2 -3 -4
+print(cities[0]) #raspechatka peremennoj s nachala massiva
+print(cities[-1]) #raspechatka peremennoj s konda massiva i tak dalee -2 -3 -4
 print(cities[2].upper())
 
 cities[-1] = 'Grozny' #Dobavlenie peremennoj v massiv
