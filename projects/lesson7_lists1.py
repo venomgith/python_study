@@ -9,7 +9,7 @@ print(cities[0]) #raspechatka peremennoj s nachala massiva
 print(cities[-1]) #raspechatka peremennoj s konda massiva i tak dalee -2 -3 -4
 print(cities[2].upper())
 
-cities[-1] = 'Grozny' #Dobavlenie peremennoj v massiv
+cities[-1] = 'Grozny' #Dobavlenie peremennoj v massiv v konce
 print("\n")
 print(cities)
 

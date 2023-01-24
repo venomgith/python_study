@@ -9,10 +9,10 @@ print(name.lower())
 print("priver stroka nomer1\nPrivet stroka n2\n\nPrivet stroka n3")
 
 print("Messages:\n\tmessage1\n\tmessage2\n\tmessage3\nEnd")
-print("lower name:" + " " + name.lower())
+print("lower name: " + name.lower())
 print("-----------\n")
 
-a = " . , dk "
+a = " .dk "
 print(a)
 print(a.lstrip())
 print(a.rstrip())
